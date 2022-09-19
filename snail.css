@@ -1,0 +1,35 @@
+H1{
+    background-color: purple;
+    text-align-last: center;
+    font-size: 75px;
+    
+}
+body{
+    background-color: aqua;
+    margin: 40px;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    background-color: aquamarine;
+}
+h3{
+    font-size: 50px;
+}
+h4{
+    font-size: 50px;
+}
+P{
+    font-size: 40PX;
+}
+ol{
+    font-size: 30px;
+}
+ul{
+    font-size: 30px;
+}
+footer{
+    background-color: yellowgreen;
+    font-style: italic;
+    text-align: center;
+}
